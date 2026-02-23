@@ -1,65 +1,69 @@
-🏠 Airbnb Data Analysis Dashboard
-📊 Project Overview
+# 🏠 Airbnb Data Analysis Dashboard
 
+# 📊 Project Overview
 This project focuses on analyzing Airbnb listing data to uncover insights related to pricing, reviews, bookings, and host performance across different neighbourhood groups. An interactive dashboard was created to visualize trends and support data-driven decision-making.
 
-🎯 Objectives
+---
 
-Analyze Airbnb booking and review data
+# 🎯 Objectives
+- Analyze Airbnb booking and review data  
+- Identify high-performing neighbourhood groups  
+- Compare prices across room types  
+- Understand seasonal review trends  
+- Highlight top hosts based on total reviews  
 
-Identify high-performing neighbourhood groups
+---
 
-Compare prices across room types
+# 📌 Key Insights
 
-Understand seasonal review trends
+# 🏙️ Booking Analysis
+- Manhattan and Brooklyn contribute the highest number of bookings.
+- Queens shows moderate activity, while Bronx has the lowest.
 
-Highlight top hosts based on total reviews
+# 💰 Pricing Trends
+- Manhattan has the highest average price for entire homes/apartments.
+- Shared rooms are the most affordable option across all neighbourhoods.
+- Premium pricing is observed in selected neighbourhoods like Tribeca and Woodrow.
 
-📌 Key Insights
-🏙️ Booking Analysis
+# 📅 Review Patterns
+- Review counts increased significantly in recent years.
+- Peak review activity occurs around mid-year, especially in June and July.
 
-Manhattan and Brooklyn contribute the highest number of bookings.
+# ⭐ Host Performance
+- Top 10 hosts have more than 2,000 total reviews.
+- A small number of hosts generate a large share of total engagement.
 
-Queens shows moderate activity, while Bronx has the lowest.
+---
 
-💰 Pricing Trends
+# 🛠️ Tools & Technologies Used
+- Power BI (Dashboard & Visualization)
+- Data Cleaning & Transformation
+- Data Analysis Techniques
+- Airbnb NYC Dataset
 
-Manhattan has the highest average price for entire homes/apartments.
+---
 
-Shared rooms are the most affordable option across all neighbourhoods.
+# 📂 Dashboard Features
+- KPI Cards for quick metrics overview
+- Interactive filters (Neighbourhood Group, Room Type)
+- Bar, Column, and Donut Charts
+- Price comparison tables by neighbourhood and room type
+- Monthly and yearly review trend analysis
 
-Premium pricing is observed in selected neighbourhoods like Tribeca and Woodrow.
+---
 
-📅 Review Patterns
+# 📷 Dashboard Preview
+![Airbnb Dashboard](airbnb_dashboard.png)
 
-Review counts increased significantly in recent years.
+---
 
-Peak review activity occurs around mid-year, especially in June and July.
+# 🚀 Business Value
+- Helps hosts optimize pricing strategies
+- Supports investors in identifying high-demand areas
+- Assists analysts in understanding customer behavior
+- Enables better market comparison across neighbourhoods
 
-⭐ Host Performance
+---
 
-Top 10 hosts have more than 2,000 total reviews.
-
-A small number of hosts generate a large share of total engagement.
-
-🛠️ Tools & Technologies Used
-
-Power BI (Dashboard & Visualization)
-
-Data Cleaning & Transformation
-
-Data Analysis Techniques
-
-Airbnb NYC Dataset
-
-📂 Dashboard Features
-
-KPI Cards for quick metrics overview
-
-Interactive filters (Neighbourhood Group, Room Type)
-
-Bar, Column, and Donut Charts
-
-Price comparison tables by neighbourhood and room type
-
-Monthly and yearly review trend analysis
+# 📌 Conclusion
+This Airbnb Data Analysis Dashboard transforms raw data into meaningful insights through interactive visualizations. It provides a clear understanding of market trends, pricing behavior, and customer engagement across neighbourhood groups.
