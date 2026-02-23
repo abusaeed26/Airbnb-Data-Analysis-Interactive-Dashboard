@@ -1,79 +1,65 @@
-🏠 Airbnb Data Analysis & Interactive Dashboard
+🏠 Airbnb Data Analysis Dashboard
 📊 Project Overview
 
-This project presents an interactive Airbnb Data Analysis Dashboard built to analyze booking patterns, pricing trends, host activity, and review behavior across New York City neighborhoods.
-
-The dashboard provides key business insights such as:
-
-Total bookings by neighbourhood group
-
-Review trends by year and month
-
-Average price by neighbourhood and room type
-
-Top 10 hosts by total reviews
-
-Distribution of listings by borough
+This project focuses on analyzing Airbnb listing data to uncover insights related to pricing, reviews, bookings, and host performance across different neighbourhood groups. An interactive dashboard was created to visualize trends and support data-driven decision-making.
 
 🎯 Objectives
 
-The main goals of this project were:
+Analyze Airbnb booking and review data
 
-Analyze Airbnb listing data
+Identify high-performing neighbourhood groups
 
-Identify high-performing neighbourhoods
+Compare prices across room types
 
-Understand seasonal review patterns
+Understand seasonal review trends
 
-Compare pricing across room types
+Highlight top hosts based on total reviews
 
-Highlight top hosts by engagement
+📌 Key Insights
+🏙️ Booking Analysis
 
-Build an interactive and visually appealing dashboard
+Manhattan and Brooklyn contribute the highest number of bookings.
 
-📌 Key Insights from the Dashboard
-🏙️ Booking Distribution
+Queens shows moderate activity, while Bronx has the lowest.
 
-Manhattan and Brooklyn dominate total bookings.
+💰 Pricing Trends
 
-Bronx has the lowest booking volume.
+Manhattan has the highest average price for entire homes/apartments.
 
-💰 Pricing Analysis
+Shared rooms are the most affordable option across all neighbourhoods.
 
-Manhattan has the highest average price for entire homes.
+Premium pricing is observed in selected neighbourhoods like Tribeca and Woodrow.
 
-Shared rooms are significantly cheaper across all boroughs.
+📅 Review Patterns
 
-Some neighborhoods like Woodrow and Tribeca show premium pricing.
+Review counts increased significantly in recent years.
 
-📅 Review Trends
-
-Reviews peaked significantly in recent years.
-
-June and July show high review activity (seasonal trend).
+Peak review activity occurs around mid-year, especially in June and July.
 
 ⭐ Host Performance
 
-Top hosts have over 2,000+ reviews.
+Top 10 hosts have more than 2,000 total reviews.
 
-A small number of hosts contribute significantly to total engagement.
+A small number of hosts generate a large share of total engagement.
 
 🛠️ Tools & Technologies Used
 
-Power BI / Tableau (Update with your actual tool)
+Power BI (Dashboard & Visualization)
 
 Data Cleaning & Transformation
 
-Data Visualization Techniques
+Data Analysis Techniques
 
 Airbnb NYC Dataset
 
 📂 Dashboard Features
 
+KPI Cards for quick metrics overview
+
 Interactive filters (Neighbourhood Group, Room Type)
 
-KPI Cards (Total Reviews, Average Reviews per Month, Host Count)
+Bar, Column, and Donut Charts
 
-Bar Charts & Column Charts
+Price comparison tables by neighbourhood and room type
 
-Donut Chart (Listing Distribution by Borough)
+Monthly and yearly review trend analysis
