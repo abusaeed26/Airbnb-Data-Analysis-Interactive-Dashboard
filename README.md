@@ -53,7 +53,7 @@ This project focuses on analyzing Airbnb listing data to uncover insights relate
 ---
 
 # 📷 Dashboard Preview
-![Airbnb Dashboard](airbnb_dashboard.png)
+![Airbnb Dashboard](AirBNB.png)
 
 ---
 
